@@ -1,4 +1,5 @@
-Python Project : Diwali Sales AnalysisPython Project : Diwali Sales Analysis
+PYTHON PROJECT : DIWALI SALES ANALYSIS
+
 🚀Diwali Sales Analysis Using Python.🚀
 Thrilled to share the results of my recent project where I dived into Diwali sales data using Python and powerful libraries! 📊💻
 
